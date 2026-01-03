@@ -283,7 +283,7 @@ class ModAnalyzerGUI(QWidget):
         homepage_label.setStyleSheet("color: #666; font-size: 11px;")
         
         # GitHub链接
-        github_label = ClickableLabel("GitHub", "https://github.com/chaqingmodiao/minecraft-mod-analyzer")
+        github_label = ClickableLabel("GitHub", "https://github.com/TeaClearInkII/Minecraft-ModSide-Analyzer")
         github_label.setStyleSheet("color: #666; font-size: 11px;")
         
         # 分隔符
