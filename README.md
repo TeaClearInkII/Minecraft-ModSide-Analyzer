@@ -1,6 +1,7 @@
 # Minecraft Mod 分析工具
 
 一个用于分析 Minecraft 模组的 Python 工具，可以自动分类服务端和客户端模组。
+Tips：exe运行生成的是临时目录，关闭后会消失。
 
 ## 功能特性
 
@@ -19,7 +20,10 @@
 
 ### 环境要求
 - Python 3.8+
-- 依赖包：见 requirements.txt
+- 依赖包：
+	PyQt6>=6.5.0
+	aiohttp>=3.8.0
+	见 requirements.txt
 
 ### 安装步骤
 
