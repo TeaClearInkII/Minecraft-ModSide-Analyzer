@@ -22,5 +22,5 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/chaqingmodiao/minecraft-mod-analyzer.git
+git clone https://github.com/TeaClearInkII/minecraft-mod-analyzer.git
 cd minecraft-mod-analyzer

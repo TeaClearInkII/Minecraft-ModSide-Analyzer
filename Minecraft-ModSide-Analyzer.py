@@ -181,7 +181,7 @@ class ModAnalyzerThread(QThread):
                 f.write("===== 作者信息 =====\n")
                 f.write("作者: 茶清墨刂\n")
                 f.write("主页: https://space.bilibili.com/388428308\n")
-                f.write("GitHub: https://github.com/chaqingmodiao/minecraft-mod-analyzer\n")
+                f.write("GitHub: https://github.com/TeaClearInkII/Minecraft-ModSide-Analyzer\n")
                 f.write("使用AI进行开发\n")
                 f.write(f"版本: 0.3.0-2026.1.3\n\n")
                 
