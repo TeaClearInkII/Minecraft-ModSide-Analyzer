@@ -39,3 +39,5 @@ Thumbs.db
 # Project specific
 *_分析/
 *.log
+config.json
+*.spec
